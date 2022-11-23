@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T22:04:50.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4hxXiV4cIL-QWTvw8fbC" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T22:10:07.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HDHtypIFyOf_86g441Hj" version="20.6.0" type="github">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Trang-1">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -92,6 +92,30 @@
         </mxCell>
         <mxCell id="NXQbgoOT6J30_Qj2V6Mh-19" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="NXQbgoOT6J30_Qj2V6Mh-17">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-20" value="Extends" style="endArrow=block;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.26;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NXQbgoOT6J30_Qj2V6Mh-7" target="-pLYyJbbYM-8aUXMgN09-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-21" value="Расписание" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="381" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-22" value="+schedule_id: int&#xa;+schedule_date: date&#xa;+schedule_time_slot: string&#xa;+schedule_status: string&#xa;-staff_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NXQbgoOT6J30_Qj2V6Mh-21">
+          <mxGeometry y="26" width="200" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="NXQbgoOT6J30_Qj2V6Mh-21">
+          <mxGeometry y="120" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-24" value="+ addSchedule(): void&#xa;+ editSchedule(): void&#xa;+ deleteSchedule(): void&#xa;+ searchSchedule(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NXQbgoOT6J30_Qj2V6Mh-21">
+          <mxGeometry y="128" width="200" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-27" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="620" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
