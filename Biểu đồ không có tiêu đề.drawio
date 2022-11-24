@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T23:08:47.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TMQSmRuLay5cto7k44sN" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T23:15:09.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="us28Ngwh24515qjFTGkf" version="20.6.0" type="github" pages="2">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-17" value="управлять тренажерами и продуктами" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-18" value="Управляйте статьями на тему фитнеса" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-18" value="Управлять статьями на тему фитнеса" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-19" value="вход и выход из системы" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -285,7 +285,7 @@
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-23" value="управлять участниками в классе физкультуры" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="610" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-24" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-24" value="управлять всеми сменами и графиками тренажерного зала" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="680" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-25" value="создать расписание" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -519,6 +519,28 @@
             <mxPoint x="100" y="560" as="sourcePoint" />
             <mxPoint x="100" y="340" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgdrck2Fgos7qRkNzWgf-45" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="u2ZrrxIaHKpuG_xrhYa_-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="500" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgdrck2Fgos7qRkNzWgf-46" value="extend" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u2ZrrxIaHKpuG_xrhYa_-24" target="u2ZrrxIaHKpuG_xrhYa_-30">
+          <mxGeometry x="-0.5226" y="3" relative="1" as="geometry">
+            <mxPoint x="590.9127882556161" y="518.8431991640739" as="sourcePoint" />
+            <mxPoint x="512.2587557393595" y="567.386964813395" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgdrck2Fgos7qRkNzWgf-47" value="сделать общий отчет" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="275" y="760" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pgdrck2Fgos7qRkNzWgf-48" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pgdrck2Fgos7qRkNzWgf-47">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="600" as="sourcePoint" />
+            <mxPoint x="290" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
