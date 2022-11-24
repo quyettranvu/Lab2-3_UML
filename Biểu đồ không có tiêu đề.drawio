@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T23:08:23.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ll9TKFbol9ihxVi4xXAm" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T23:08:47.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TMQSmRuLay5cto7k44sN" version="20.6.0" type="github" pages="2">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-17" value="управлять тренажерами и продуктами" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-18" value="Manage articles on fitness topics" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-18" value="Управляйте статьями на тему фитнеса" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u2ZrrxIaHKpuG_xrhYa_-19" value="вход и выход из системы" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
