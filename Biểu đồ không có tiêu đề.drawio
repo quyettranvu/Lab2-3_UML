@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T22:54:17.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NanU5poMyTCyrYR2lmi6" version="20.6.0" type="github">
-  <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Trang-1">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:31:47.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="66hKQk6tXJAPZfztUm47" version="20.6.0" type="github" pages="2">
+  <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-63" value="" style="endArrow=diamondThin;endFill=1;endSize=20;html=1;rounded=0;entryX=0.996;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.585;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="-pLYyJbbYM-8aUXMgN09-14" edge="1" source="NXQbgoOT6J30_Qj2V6Mh-36">
+        <mxCell id="NXQbgoOT6J30_Qj2V6Mh-63" value="" style="endArrow=diamondThin;endFill=1;endSize=20;html=1;rounded=0;entryX=0.996;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.585;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NXQbgoOT6J30_Qj2V6Mh-36" target="-pLYyJbbYM-8aUXMgN09-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="430" as="sourcePoint" />
             <mxPoint x="640" y="460" as="targetPoint" />
@@ -232,11 +232,25 @@
         <mxCell id="NXQbgoOT6J30_Qj2V6Mh-66" value="1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="220" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QWNaYnXoP8WtqLhafoQ0-1" value="1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QWNaYnXoP8WtqLhafoQ0-1" value="1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QWNaYnXoP8WtqLhafoQ0-2" value="1..*" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QWNaYnXoP8WtqLhafoQ0-2" value="1..*" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uwozWKPzrJn6WaG8PIqu" name="Use-case Diagram">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-1" value="Системный Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2ZrrxIaHKpuG_xrhYa_-2" value="Системный Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="99" y="471" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
