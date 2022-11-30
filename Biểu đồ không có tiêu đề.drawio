@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T18:42:18.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cKvyiUYK0VT3cPLNqn8z" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-30T01:09:58.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LfMaG5t8F1F2ckBZK2YD" version="20.6.0" type="github" pages="3">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
-    <mxGraphModel dx="1421" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uwozWKPzrJn6WaG8PIqu" name="Use-case Diagram">
-    <mxGraphModel dx="1448" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,6 +575,50 @@
             <mxPoint x="1130" y="550" as="sourcePoint" />
             <mxPoint x="1030" y="705" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Uj0VxT-WQNtdFhk5L0RM" name="Activity Diagram">
+    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BMfIpuo3zM_fRxc-UmPu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="196" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMfIpuo3zM_fRxc-UmPu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="196" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BMfIpuo3zM_fRxc-UmPu-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BMfIpuo3zM_fRxc-UmPu-1" target="BMfIpuo3zM_fRxc-UmPu-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMfIpuo3zM_fRxc-UmPu-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BMfIpuo3zM_fRxc-UmPu-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="508" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMfIpuo3zM_fRxc-UmPu-7" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfu427JvfGDp2SuNYto-1" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfu427JvfGDp2SuNYto-4" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfu427JvfGDp2SuNYto-5" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfu427JvfGDp2SuNYto-6" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bRfu427JvfGDp2SuNYto-7" value="Проверка разрешения" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="280" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
