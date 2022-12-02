@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:15:46.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vamWVdjp-x1Y0JWQKEE0" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:18:50.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OjNxZ8OPZZDSge8mlvRv" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -1099,6 +1099,61 @@
         </mxCell>
         <mxCell id="4wAL9OcQmNZTOOHdofil-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="317.27" as="sourcePoint" />
+            <mxPoint x="1060" y="349" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="318" />
+              <mxPoint x="1130" y="340" />
+              <mxPoint x="1130" y="350" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-4" value="добавлять/редактировать&lt;br&gt;&amp;nbsp;рсаписаний" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-5" value="сохранить/обновить расписаний" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="171.02" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-6" value="список/удаление расписаний" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="264.77" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="840" y="264.77" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="128.51999999999998" as="sourcePoint" />
+            <mxPoint x="1060" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="129.00000000000003" />
+              <mxPoint x="1130" y="160.00000000000003" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-23" value="добавлять/редактировать&lt;br&gt;&amp;nbsp;тренеров" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="175.27999999999997" as="sourcePoint" />
+            <mxPoint x="1060" y="206.76" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="175.76000000000002" />
+              <mxPoint x="1130" y="206.76000000000002" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-25" value="сохранить/обновить тренеров" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="171.02" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="304.77" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="277.27" as="sourcePoint" />
             <mxPoint x="860" y="308.75" as="targetPoint" />
             <Array as="points">
@@ -1108,17 +1163,8 @@
             <mxPoint x="-90" y="81" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wAL9OcQmNZTOOHdofil-4" value="добавлять/редактировать&lt;br&gt;&amp;nbsp;участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="120" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4wAL9OcQmNZTOOHdofil-5" value="сохранить/обновить участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="171.02" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4wAL9OcQmNZTOOHdofil-6" value="список/удаление участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="264.77" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4wAL9OcQmNZTOOHdofil-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
-          <mxGeometry x="840" y="264.77" width="29.54" height="12.5" as="geometry" />
+        <mxCell id="4wAL9OcQmNZTOOHdofil-28" value="список/удаление тренеров" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="304.77" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
