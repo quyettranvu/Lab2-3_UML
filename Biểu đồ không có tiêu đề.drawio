@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:40:47.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sV3jwsMRHi8_GHjhqPUd" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:42:42.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="i5ibTjQvceeLoL7J8o9D" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -1378,6 +1378,49 @@
         </mxCell>
         <mxCell id="Y7XFywrKpd44AJ3gx0v6-53" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями платежи сисстема&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-54" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="550" as="sourcePoint" />
+            <mxPoint x="1240" y="581.48" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="550.48" />
+              <mxPoint x="1310" y="581.48" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-55" value="управлять / разрабатывать фитнес-класс" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="710" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="722.5" as="sourcePoint" />
+            <mxPoint x="1240" y="753.98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="722.98" />
+              <mxPoint x="1310" y="753.98" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="750" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="762.5" as="sourcePoint" />
+            <mxPoint x="1440" y="794" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="763" />
+              <mxPoint x="1510" y="780" />
+              <mxPoint x="1510" y="794" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
