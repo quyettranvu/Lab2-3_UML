@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:42:42.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="i5ibTjQvceeLoL7J8o9D" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:45:47.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="alaxmJv4uKjIHTUMXqwa" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -1421,6 +1421,23 @@
             </Array>
             <mxPoint x="-90" y="81" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-61" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="548.52" as="sourcePoint" />
+            <mxPoint x="1440" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="549" />
+              <mxPoint x="1510" y="580" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-62" value="управлять / разрабатывать фитнес-класс" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7XFywrKpd44AJ3gx0v6-63" value="изменить/сделать отчет&amp;nbsp;о расписании тренажерного зала" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="930" y="650" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
