@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:51:28.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wb4NhWEllCL5Pnz0CcL1" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:53:04.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Uy99o1rQuA0bBvlMKCIh" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uwozWKPzrJn6WaG8PIqu" name="Use-case Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -580,7 +580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uj0VxT-WQNtdFhk5L0RM" name="Activity Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1456,6 +1456,18 @@
         </mxCell>
         <mxCell id="pRBjfu1V_BB3vKHWgvX9-2" value="комментарии/отзывы о платежи системы" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1520" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-1" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями расписания тренажерного зала&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="374.77" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-2" value="управлять деталями участников тренажерного зала" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="632.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-3" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями использования функций система&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-4" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями платежи сисстема&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
