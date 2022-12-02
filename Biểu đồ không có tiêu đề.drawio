@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T01:12:04.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SZhCGZWeiqz8q4s3_mGd" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T01:12:24.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jdG8MRzjXYU5m87b_Zww" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -819,7 +819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1NtGXsdbdAMBXLTJWbeg" name="Sequence Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,10 +913,10 @@
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDjbwVpOF3AYtSn6SCNv-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.927;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jDjbwVpOF3AYtSn6SCNv-21" target="jDjbwVpOF3AYtSn6SCNv-26">
+        <mxCell id="jDjbwVpOF3AYtSn6SCNv-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.927;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jDjbwVpOF3AYtSn6SCNv-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="420" as="sourcePoint" />
-            <mxPoint x="550" y="370" as="targetPoint" />
+            <mxPoint x="230" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m9YPosglwOMB7GmHJ0tp-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Управлять пользователями&lt;/span&gt;" style="html=1;fontSize=15;fillColor=#FFFFFF;" vertex="1" parent="1">
