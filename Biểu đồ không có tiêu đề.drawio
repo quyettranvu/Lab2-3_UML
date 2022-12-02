@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T00:24:19.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aNzhqc7IwaJByNgAdF8y" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T00:40:42.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SKA57dVtqD--Elk2ydMZ" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -737,25 +737,25 @@
         <mxCell id="t3gbZpRHwdEfWjGEi-9E-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Конец&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="870" y="690" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-1" value="управлять пользователями" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="10.5" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-2" value="управлять пакетами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="190" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-3" value="управлять членством" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="362" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-4" value="управлять фитнес-расписанием" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="540" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-5" value="управлять пакетами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-5" value="управлять тренерами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="717" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-6" value="управлять функциями система&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="890" y="490" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="um7zSH4mjj-_cBNrROY_-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="um7zSH4mjj-_cBNrROY_-7" value="управлять платежами" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1060" y="490" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="um7zSH4mjj-_cBNrROY_-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="um7zSH4mjj-_cBNrROY_-1" edge="1">
