@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:13:08.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jZnBoLH3yFV_0j637e8R" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:15:46.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vamWVdjp-x1Y0JWQKEE0" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -937,7 +937,7 @@
         <mxCell id="Za9v6x2wVgbu6E6E0Tvg-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="280" as="sourcePoint" />
-            <mxPoint x="860" y="280" as="targetPoint" />
+            <mxPoint x="850" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Za9v6x2wVgbu6E6E0Tvg-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
@@ -1074,6 +1074,51 @@
         </mxCell>
         <mxCell id="1QQwhmRii5E-s2BLmxwo-29" value="список/удаление участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="224.77" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="128.52" as="sourcePoint" />
+            <mxPoint x="860" y="160.00000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="129.00000000000003" />
+              <mxPoint x="930" y="160.00000000000003" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="175.28" as="sourcePoint" />
+            <mxPoint x="860" y="206.76000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="175.76000000000002" />
+              <mxPoint x="930" y="206.76000000000002" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="277.27" as="sourcePoint" />
+            <mxPoint x="860" y="308.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="277.75" />
+              <mxPoint x="930" y="308.75" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-4" value="добавлять/редактировать&lt;br&gt;&amp;nbsp;участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-5" value="сохранить/обновить участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="171.02" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-6" value="список/удаление участников" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="264.77" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4wAL9OcQmNZTOOHdofil-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="840" y="264.77" width="29.54" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
