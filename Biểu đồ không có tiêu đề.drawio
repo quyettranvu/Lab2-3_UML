@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T21:53:04.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Uy99o1rQuA0bBvlMKCIh" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-02T21:56:54.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Q65vi0ifaVqEagCgkOLk" version="20.6.0" type="github" pages="4">
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
     <mxGraphModel dx="1483" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -874,7 +874,7 @@
             <mxPoint x="1060" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jDjbwVpOF3AYtSn6SCNv-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
+        <mxCell id="jDjbwVpOF3AYtSn6SCNv-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;startArrow=none;" parent="1" edge="1" source="_WdXzB-JxFPdFwKamEiW-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="1060" as="sourcePoint" />
             <mxPoint x="1239.5" y="105" as="targetPoint" />
@@ -1468,6 +1468,84 @@
         </mxCell>
         <mxCell id="_WdXzB-JxFPdFwKamEiW-4" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями платежи сисстема&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="350" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-5" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями использования функций система&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="380" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-6" value="&lt;font color=&quot;#000033&quot;&gt;управлять деталями платежи сисстема&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000033;" edge="1" parent="1" source="Y7XFywrKpd44AJ3gx0v6-56" target="Y7XFywrKpd44AJ3gx0v6-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="950" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;" edge="1" parent="1" target="_WdXzB-JxFPdFwKamEiW-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1245" y="1060" as="sourcePoint" />
+            <mxPoint x="1239.5" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;rotation=-90;fillColor=#003300;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="988.21" width="29.54" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="912.5" as="sourcePoint" />
+            <mxPoint x="1240" y="932.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="912.98" />
+              <mxPoint x="1310" y="932.5" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-13" value="управлять /&amp;nbsp;использовать функции тренажерного зала" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="956.73" as="sourcePoint" />
+            <mxPoint x="1240" y="988" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1320" y="957.21" />
+              <mxPoint x="1320" y="988.21" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-15" value="комментарии/отзывы о функционале системы" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="936.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="916.25" as="sourcePoint" />
+            <mxPoint x="1440" y="936.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="916.73" />
+              <mxPoint x="1510" y="936.25" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-18" value="управлять /&amp;nbsp;использовать функции платежи система" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-19" value="комментарии/отзывы о платежи системы" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="988.21" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_WdXzB-JxFPdFwKamEiW-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="1000.71" as="sourcePoint" />
+            <mxPoint x="1440" y="1032" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="1001.21" />
+              <mxPoint x="1520" y="1018.21" />
+              <mxPoint x="1520" y="1032.21" />
+            </Array>
+            <mxPoint x="-90" y="81" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
