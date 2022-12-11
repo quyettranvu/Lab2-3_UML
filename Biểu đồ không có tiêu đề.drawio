@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T23:03:05.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tOtGOCB04ZMG2ldjkMQp" version="20.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-11T23:07:15.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="38YSQCB3KivPcE_54_L5" version="20.6.2" type="github" pages="6">
   <diagram name="Bản sao của Class Diagram" id="j3hNW8woMEeNuRztFPho">
     <mxGraphModel dx="1666" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WYeUHidmFiiZNaIuLNMJ" name="Class Diagram">
-    <mxGraphModel dx="1666" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1034,7 +1034,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1NtGXsdbdAMBXLTJWbeg" name="Sequence Diagram">
-    <mxGraphModel dx="1148" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1649,7 +1649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7XFywrKpd44AJ3gx0v6-63" value="изменить/сделать отчет&amp;nbsp;о расписании тренажерного зала" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="930" y="650" width="110" height="40" as="geometry" />
+          <mxGeometry x="930" y="657.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y7XFywrKpd44AJ3gx0v6-68" value="управлять /&amp;nbsp;использовать функции платежи система" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="1520" y="530" width="120" height="40" as="geometry" />
@@ -1731,7 +1731,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_WdXzB-JxFPdFwKamEiW-15" value="комментарии/отзывы о функционале системы" style="text;whiteSpace=wrap;html=1;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="936.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="1330" y="948.21" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_WdXzB-JxFPdFwKamEiW-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry x="1" y="-91" width="50" height="50" relative="1" as="geometry">
@@ -1788,6 +1788,21 @@
         </mxCell>
         <mxCell id="_2jgeTYcF6AEtsRfTPMu-4" value="проверить пакет файлов членства пользователя" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="480" y="171.02" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_2jgeTYcF6AEtsRfTPMu-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="869.54" y="660.005" as="sourcePoint" />
+            <mxPoint x="1240" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2jgeTYcF6AEtsRfTPMu-6" value="Использовать систему посещаемости, расстановки и планирования диеты для администратора" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="919.54" y="620" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b3vKAEEir_3Arbktzza3-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_WdXzB-JxFPdFwKamEiW-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="950.0050000000001" as="sourcePoint" />
+            <mxPoint x="1440" y="950" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
