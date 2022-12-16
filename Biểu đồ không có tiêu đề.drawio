@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T00:55:00.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h1wAqDDvn2QjXAfBMl9T" version="20.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-16T01:13:25.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="S5FdD44lDuxyEGTvrsiZ" version="20.7.3" type="github" pages="7">
   <diagram name="Bản sao của Class Diagram" id="j3hNW8woMEeNuRztFPho">
     <mxGraphModel dx="1500" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -777,7 +777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uj0VxT-WQNtdFhk5L0RM" name="Activity Diagram">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1016,7 +1016,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1NtGXsdbdAMBXLTJWbeg" name="Sequence Diagram">
-    <mxGraphModel dx="1909" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1150" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1150" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1841,7 +1841,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO74gOs-D8Pf5PbIF4Y8" name="CRC-карта обьекта">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1262" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1858,7 +1858,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bản sao của CRC-карта обьекта" id="1unxeApCzGu91uAtzjBp">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1262" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="DYT0k5oOsL-uoCTxNZaN-0" />
         <mxCell id="DYT0k5oOsL-uoCTxNZaN-1" parent="DYT0k5oOsL-uoCTxNZaN-0" />
