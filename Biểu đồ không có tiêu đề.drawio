@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T11:00:02.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="929dwPdjMmFChR1KqCGa" version="20.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-12-16T00:18:16.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="-Wt17xc8LdHwUO8rInrU" version="20.7.3" type="github" pages="7">
   <diagram name="Bản sao của Class Diagram" id="j3hNW8woMEeNuRztFPho">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="HlsSpw4q8ErfwoMd-PJN-0" />
         <mxCell id="HlsSpw4q8ErfwoMd-PJN-1" parent="HlsSpw4q8ErfwoMd-PJN-0" />
@@ -777,7 +777,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uj0VxT-WQNtdFhk5L0RM" name="Activity Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -925,14 +925,11 @@
         <mxCell id="t3gbZpRHwdEfWjGEi-9E-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="312" y="20" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t3gbZpRHwdEfWjGEi-9E-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="830" y="690" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="t3gbZpRHwdEfWjGEi-9E-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Старт&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="307" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t3gbZpRHwdEfWjGEi-9E-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Конец&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="870" y="690" width="70" height="40" as="geometry" />
+          <mxGeometry x="870" y="700" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="um7zSH4mjj-_cBNrROY_-1" value="управлять пользователями" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="10.5" y="490" width="153" height="30" as="geometry" />
@@ -1012,11 +1009,14 @@
             <mxPoint x="1100" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tjgnzYcB-EWcaRhS-PUK-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="695" width="52" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="1NtGXsdbdAMBXLTJWbeg" name="Sequence Diagram">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1790,7 +1790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mO74gOs-D8Pf5PbIF4Y8" name="CRC-карта обьекта">
-    <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
